@@ -1,0 +1,28 @@
+.container {
+    border: 1px solid black;
+    width: 275;
+    height: 150;
+    /* initial-letter-align: auto; */
+    /* display: block; */
+    margin-left: auto;
+    margin-right: auto;
+    /* align-items: center; */
+    /* justify-content: center; */
+    /* text-align: center; */
+    padding: 10px;
+    font-size: 12px;
+}
+
+#genDiv{
+    height: 30%;
+    /* text-align: left; */
+    flex-wrap: auto;
+}
+
+.PageTitle{
+    font-size: 18px;
+}
+
+.Pnum{
+    font-size: 20px;
+}
